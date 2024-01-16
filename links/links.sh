@@ -41,3 +41,11 @@ ln file3 file3-hard
 ln -s file3 file3-soft
 echo -e "\nEnter return to continue"
 read
+
+# Attempt to create hard/symbolic links across file systems
+echo "Executing ln /expanse/lustre/scratch/sinkovit/file4 file4-hard"
+echo "Executing ln -s /expanse/lustre/scratch/sinkovit/file4 file4-soft"
+ln /expanse/lustre/scratch/sinkovit/file4 file4-hard
+ln -s /expanse/lustre/scratch/sinkovit/file4 file4-soft
+echo -e "\nEnter return to continue"
+read
