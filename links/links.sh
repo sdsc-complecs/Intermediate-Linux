@@ -1,6 +1,6 @@
 # This script contains commands for exploring hard links and symbolic
-# links It contains a few commands that may not have been covered yet
-# (read, echo), but their purpose should be somewhat obvious.
+# links. It contains a few commands that may not have been covered yet
+# but their purpose should be somewhat obvious.
 
 # Create files used for this example
 echo "Executing echo 'Contents of file1' > file1"

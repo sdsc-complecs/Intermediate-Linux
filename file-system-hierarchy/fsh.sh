@@ -1,6 +1,6 @@
 # This script contains commands for exploring the Linux File System
 # Hierarchy. It contains a few commands that may not have been covered
-# yet (read, echo), but their purpose should be somewhat obvious.
+# but their purpose should be somewhat obvious.
 
 # Test if /bin and /usr/bin point to the same location
 
