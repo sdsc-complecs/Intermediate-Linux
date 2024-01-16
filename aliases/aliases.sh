@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This script contains commands for exploring aliases. It contains a
 # few commands that may not have been covered yet but their purpose
 # should be somewhat obvious.

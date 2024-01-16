@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This script contains commands for managing the directory stack with
 # pushd and popd. It contains a few commands that may not have been
 # covered yet but their purpose should be somewhat obvious.

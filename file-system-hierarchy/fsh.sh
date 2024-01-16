@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This script contains commands for exploring the Linux File System
 # Hierarchy. It contains a few commands that may not have been covered
 # but their purpose should be somewhat obvious.

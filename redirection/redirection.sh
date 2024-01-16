@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This script contains commands for exploring redirection and
 # pipes. It contains a few commands that may not have been covered yet
 # but their purpose should be obvious.
