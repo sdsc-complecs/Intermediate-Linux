@@ -6,7 +6,7 @@
 
 ## Table of Contents
 | Section    | Presentation Title | Github Link |
-| -------- | ------- | ------- |
+| :--------: | ------- | ------- |
 | 1 | Introduction  |  |
 | 2 | Filesystem Hierarchy Standard  |  [file-system-hierarchy](file-system-hierarchy)  |
 | 3 | Symbolic links and hard links  |  [links](links) |
