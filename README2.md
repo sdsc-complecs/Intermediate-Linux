@@ -8,7 +8,7 @@
 | Section    | Presentation Title | Github Link |
 | -------- | ------- | ------- |
 | 1 | Introduction  |  
-| 2 | Filesystem Hierarchy Standard  |  
+| 2 | Filesystem Hierarchy Standard  |  [file-system-hierarchy](file-system-hierarchy)
 | 3 | Symbolic links and hard links  |  
 | 4 | Redirection and pipes  |  
 | 5 | Wildcards and globbing  |  
