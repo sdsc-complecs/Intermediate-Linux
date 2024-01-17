@@ -22,4 +22,4 @@
 | 9 | Environment variables  | [environment-variables](environment-variables) |
 | 10 | Configuration files (~/.bashrc, ~/.bash_profile, /etc/bashrc, …)  |  
 | 11 | Pseudo-filesystems  |    |
-| 12 | Bash scripting  | [scripting] (scripting) |
+| 12 | Bash scripting  | [scripting](scripting) |
