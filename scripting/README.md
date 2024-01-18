@@ -8,5 +8,5 @@ The following scripts can be executed without command line arguments
 
 The followig scripts take two command line arguments
 
-+ num-comp.sh - numeric comparison of two integer arguments
++ num-comp.sh - numeric comparison of integer arguments
 + str-comp.sh - string comparisons
