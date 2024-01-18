@@ -22,7 +22,7 @@ echo
 
 echo "Loop over explicit list"
 echo "linecount filename"
-for x in file1.txt file2.txt file3.txt
+for x in file0.txt file1.txt file2.txt file3.txt file4.txt file5.txt file6.txt
 do
     wc -l ${x} # get line count
 done

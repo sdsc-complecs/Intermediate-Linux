@@ -14,6 +14,6 @@
 | 7 | Command history  |  [history](history)  |
 | 8 | Navigating between directories with pushd/popd  |  [pushd-popd](pushd-popd)
 | 9 | Environment variables  | [environment-variables](environment-variables) |
-| 10 | Configuration files (~/.bashrc, ~/.bash_profile, /etc/bashrc, …)  |  
-| 11 | Pseudo-filesystems  |    |
+| 10 | Configuration files (~/.bashrc, ~/.bash_profile, /etc/bashrc, …)  | n/a |
+| 11 | Pseudo-filesystems  | n/a  |
 | 12 | Bash scripting  | [scripting](scripting) |

@@ -1,0 +1,6 @@
+file 0 line 1
+file 0 line 2
+file 0 line 3
+file 0 line 4
+file 0 line 5
+file 0 line 6
